@@ -1,8 +1,8 @@
-title: Your Title
+title: Leigh Silverstein Author Illustrator
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  Personal website for Leigh Silverstein
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "silverteinleigh.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
